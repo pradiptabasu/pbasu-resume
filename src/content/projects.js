@@ -1,7 +1,7 @@
 /* eslint max-len: "off" */
 
 const projects = {
-  title: 'Projects',
+  title: 'Projects <This area is under development>',
   icon: 'archive',
   description: null,
   list: [
